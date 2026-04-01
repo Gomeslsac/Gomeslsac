@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Isac Gomes 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação, focado em criar produtos digitais funcionais, bem estruturados e com boa experiência de uso.
+  Engenheiro de Software e Desenvolvedor Full Stack em formação, focado em criar produtos digitais funcionais, bem estruturados e com boa experiência de uso.
 </p>
 
 <p align="center">
