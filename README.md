@@ -82,15 +82,6 @@ Gosto de transformar ideias em sistemas organizados, escaláveis e com boa exper
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsacGomes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacGomes&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <p align="center">
   <i>Código limpo, boas experiências e projetos que fazem sentido.</i>
 </p>
