@@ -83,5 +83,5 @@ Gosto de transformar ideias em sistemas organizados, escaláveis e com boa exper
 ---
 
 <p align="center">
-  <i>Código limpo, boas experiências e projetos que fazem sentido.</i>
+  <i>A lot of hobbies, estudo e muito café </i> ☕
 </p>
