@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Isac Gomes 👋</h1>
 
 <p align="center">
-  Engenheiro de Software e Desenvolvedor Full Stack em formação, focado em criar produtos digitais funcionais, bem estruturados e com boa experiência de uso.
-</p>
-
-<p align="center">
   <a href="mailto:isacgomes.cc@gmail.com">
     <img src="https://img.shields.io/badge/Email-isacgomes.cc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -18,16 +14,6 @@
     <img src="https://img.shields.io/badge/Instagram-im__kiss4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia de Software** e venho construindo minha trajetória com foco em desenvolvimento **Full Stack**, arquitetura de aplicações, interfaces bem pensadas e soluções que realmente funcionam no dia a dia.
-
-Gosto de transformar ideias em sistemas organizados, escaláveis e com boa experiência para o usuário — principalmente em projetos **web**, **mobile** e automações.
-
----
 
 ## Stack principal
 
@@ -52,8 +38,6 @@ Gosto de transformar ideias em sistemas organizados, escaláveis e com boa exper
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
 ## Projetos em destaque
 
 - **Sistema de Rifas**  
@@ -70,15 +54,6 @@ Gosto de transformar ideias em sistemas organizados, escaláveis e com boa exper
 
 - **Automações e integrações**  
   Fluxos com **Docker + n8n + WAHA + Gemini + Redis** e IA para automação de processos e organização de serviços.
-
----
-
-## O que eu busco construir
-
-- sistemas bem estruturados;
-- interfaces limpas e funcionais;
-- soluções úteis para problemas reais;
-- produtos com qualidade visual, performance e boa manutenção.
 
 ---
 
