@@ -26,25 +26,6 @@
 ### Mobile, dados e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgres,docker,dart,swift,angular,ruby,redis,git&perline=5)](https://skillicons.dev)
 
-## Projetos em destaque
-
-- **Sistema de Rifas**  
-  Plataforma em **PHP + Laravel + PostgreSql** com foco em organização, escalabilidade, autenticação, gerenciamento de rifas e fluxo de compra.
-
-- **Sistema de Pesquisa**  
-  Estrutura **PHP + JavaScript + ReactNative + Vue + Tailwind** completa para gestão de pesquisas, usuários, entrevistadores, perguntas, respostas e relatórios.
-
-- **App mobile com React Native**  
-  Aplicação **React + Expo** com autenticação, formulários, fluxo offline/online, armazenamento local e sincronização posterior.
-
-- **Sistema web de gestão de clientes**  
-  Projeto em **PHP + MySQL** com autenticação, CRUD, relatórios, gráficos e exportações.
-
-- **Automações e integrações**  
-  Fluxos com **Docker + n8n + WAHA + Gemini + Redis** e IA para automação de processos e organização de serviços.
-
----
-
 <p align="center">
   <i>A lot of hobbies, estudo e muito café </i> ☕
 </p>
