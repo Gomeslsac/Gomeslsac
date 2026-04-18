@@ -18,13 +18,13 @@
 ## Stack principal
 
 ### Front-end
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,vue,bootstrap,nodejs,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,vue,bootstrap,nodejs,vite,angular&perline=5)](https://skillicons.dev)
 
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,java,python,dotnet&perline=5)](https://skillicons.dev)
 
 ### Mobile, dados e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,postgres,docker,dart,swift,angular,ruby,redis,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,dart,swift,mysql,postgres,docker,redis,ruby,git&perline=5)](https://skillicons.dev)
 
 <p align="center">
   <i>A lot of hobbies, estudo e muito café </i> ☕
