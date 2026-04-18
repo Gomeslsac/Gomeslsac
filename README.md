@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## Stack principal
+## Software Engineer | Full Stack
 
 ### Front-end
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,vue,bootstrap,nodejs,vite,angular&perline=5)](https://skillicons.dev)
